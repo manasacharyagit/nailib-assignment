@@ -40,6 +40,7 @@ This project is a [Next.js](https://nextjs.org) app bootstrapped with [create-ne
 ```bash
 git clone https://github.com/your-username/nailib-landing.git
 cd nailib-landing
+```
 
 ---
 
