@@ -30,7 +30,16 @@ A modern, responsive **landing page** for the Nailib platform, featuring **call-
 
 This project is a [Next.js](https://nextjs.org) app bootstrapped with [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+**Install dependencies** npm install
+**Run** npm run dev
+**Visit** http://localhost:3000
+
+
 ### **1️⃣ Clone the repository**
 ```bash
 git clone https://github.com/your-username/nailib-landing.git
 cd nailib-landing
+
+
+### **1️⃣ Clone the repository**
+Live link - https://nailib-assignment.vercel.app/
